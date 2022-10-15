@@ -76,6 +76,7 @@ ul {
   background-color: #FF7755;
   grid-area: 2 / 2 / 3 / 3;
   display: grid;
+  align-items: center;
 }
 
 .nav > ul {
